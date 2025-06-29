@@ -1,5 +1,5 @@
 
-🌾 Multi-Crop Disease Detection using YOLOv8 and Edge AI (AgriScan)
+🌾 Development of AI Based AI model for Multi-Crop Disease Detection using YOLOv8 and Edge AI (AgriScan) and Real time implementation 
 
 Project Duration: Mar 2025 – Present
 Supervisor: Ambresh B
